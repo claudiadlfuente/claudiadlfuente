@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🦾 Biomedical Engineering student at Universidad Politécnica de Madrid (UPM) with research experience in signal processing, microfluidic systems and clinical experience in hemodynamics.
+
+⚡ I'm currently working on computational modelling of the mitral valve with CAE software ABAQUS. 
+
